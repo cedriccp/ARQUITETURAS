@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-17T03:42:44.979Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="TmWyf4_zgfYYtbIkz-cU" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-17T03:51:58.051Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="MDXi32AHq6QEs8qB2Tk0" version="20.8.20" type="github">
   <diagram name="Página-1" id="vrQVgnBcplRZsaQNlVIw">
     <mxGraphModel dx="1877" dy="1742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry x="-720" y="-660" width="35" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DquQTZMPiSn_yVQ3O4vY-10" value="SGDB" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/whcompare-isometric-web-hosting-servers/50/database-cache-128.png" vertex="1" parent="1">
-          <mxGeometry x="-320" y="-950" width="128" height="128" as="geometry" />
+          <mxGeometry x="-210" y="-810" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="DquQTZMPiSn_yVQ3O4vY-33" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=-0.024;entryY=0.658;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="DquQTZMPiSn_yVQ3O4vY-36">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -61,14 +61,14 @@
             <mxPoint x="-300" y="-850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DquQTZMPiSn_yVQ3O4vY-46" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="DquQTZMPiSn_yVQ3O4vY-46" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="DquQTZMPiSn_yVQ3O4vY-10" target="DquQTZMPiSn_yVQ3O4vY-47">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-210" y="-870" as="sourcePoint" />
-            <mxPoint x="-160" y="-870" as="targetPoint" />
+            <mxPoint x="-220" y="-730" as="sourcePoint" />
+            <mxPoint x="-170" y="-730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DquQTZMPiSn_yVQ3O4vY-47" value="&amp;nbsp;ARAMAZENAMENTO&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;DAS 65 INSTÂNCIAS DO SGDB&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;para uso dos 65&amp;nbsp; módulos não integrado" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/server_farm.svg;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="-965" width="155" height="155" as="geometry" />
+          <mxGeometry x="-223.5" y="-636" width="155" height="155" as="geometry" />
         </mxCell>
         <mxCell id="DquQTZMPiSn_yVQ3O4vY-48" value="SERVIDOR DE APLICAÇÕES" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;" vertex="1" parent="1">
           <mxGeometry x="-470" y="-750" width="89.93" height="114" as="geometry" />
@@ -78,6 +78,9 @@
             <mxPoint x="-380" y="-740" as="sourcePoint" />
             <mxPoint x="-320" y="-800" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="DquQTZMPiSn_yVQ3O4vY-51" value="ARQUITETURA MONOLITICA" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="-685" y="-1169" width="480" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
