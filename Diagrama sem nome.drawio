@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-17T03:40:29.324Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="UOayLsMmNP4KEeMQn8a3" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-17T03:42:44.979Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="TmWyf4_zgfYYtbIkz-cU" version="20.8.20" type="github">
   <diagram name="Página-1" id="vrQVgnBcplRZsaQNlVIw">
     <mxGraphModel dx="1877" dy="1742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -55,7 +55,7 @@
             <mxPoint x="-360" y="-870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DquQTZMPiSn_yVQ3O4vY-45" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=-0.005;entryY=0.603;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DquQTZMPiSn_yVQ3O4vY-36" target="DquQTZMPiSn_yVQ3O4vY-10">
+        <mxCell id="DquQTZMPiSn_yVQ3O4vY-45" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="DquQTZMPiSn_yVQ3O4vY-36" target="DquQTZMPiSn_yVQ3O4vY-48">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-350" y="-800" as="sourcePoint" />
             <mxPoint x="-300" y="-850" as="targetPoint" />
@@ -69,6 +69,15 @@
         </mxCell>
         <mxCell id="DquQTZMPiSn_yVQ3O4vY-47" value="&amp;nbsp;ARAMAZENAMENTO&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;DAS 65 INSTÂNCIAS DO SGDB&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;para uso dos 65&amp;nbsp; módulos não integrado" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/server_farm.svg;" vertex="1" parent="1">
           <mxGeometry x="-160" y="-965" width="155" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="DquQTZMPiSn_yVQ3O4vY-48" value="SERVIDOR DE APLICAÇÕES" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;" vertex="1" parent="1">
+          <mxGeometry x="-470" y="-750" width="89.93" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="DquQTZMPiSn_yVQ3O4vY-49" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="DquQTZMPiSn_yVQ3O4vY-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-380" y="-740" as="sourcePoint" />
+            <mxPoint x="-320" y="-800" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
